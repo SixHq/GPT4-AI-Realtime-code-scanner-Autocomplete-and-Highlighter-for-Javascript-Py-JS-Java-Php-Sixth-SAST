@@ -1,6 +1,10 @@
 [![VSCode Plugin](https://firebasestorage.googleapis.com/v0/b/thsense-24e43.appspot.com/o/Frame%201261152503.png?alt=media&token=a7b6bcbb-4d93-40b7-a644-6f0ee007d605)](https://marketplace.visualstudio.com/items?itemName=Sixth.sixth&ssr=false#overview)  [![VSCode Plugin](https://firebasestorage.googleapis.com/v0/b/thsense-24e43.appspot.com/o/Frame%201261152503%20(2).png?alt=media&token=3bf49a43-cdbb-40d8-854c-7e01eb82bcf2)](https://marketplace.visualstudio.com/items?itemName=Sixth.sixth&ssr=false#overview) [![Gitpod ready-to-code](https://firebasestorage.googleapis.com/v0/b/thsense-24e43.appspot.com/o/Frame%201261152503%20(3).png?alt=media&token=2c86221b-7d23-45e9-878d-6f2606738512)](https://github.com/SixHq/GPT4-AI-Realtime-code-scanner-Autocomplete-and-Highlighter-for-Javascript-Py-JS-Java-Php-Sixth-SAST) [![Twitter Follow](https://firebasestorage.googleapis.com/v0/b/thsense-24e43.appspot.com/o/Frame%201261152503%20(4).png?alt=media&token=8c7a06bd-f91e-46e9-a344-1a12a0b61797)](https://twitter.com/sixth_hq) [![Discord](https://firebasestorage.googleapis.com/v0/b/thsense-24e43.appspot.com/o/Frame%201261152503%20(5).png?alt=media&token=fe8a5363-1b1b-4756-bd27-539637dd3d38)](https://discord.gg/rHzzPXDDRd)
 
 
+### This repository is meant for documentation, bug reports and feature requests
+ 
+
+
 
 # **GPT4 AI for software developers for autodetecting bad code**
 ------------------------------------
