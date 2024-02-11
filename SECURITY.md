@@ -9,4 +9,4 @@
 
 ## Reporting a Vulnerability
 
-Please report all vulnerabilities to ope@ttrysixth.com
+Please report all vulnerabilities to ope@trysixth.com
