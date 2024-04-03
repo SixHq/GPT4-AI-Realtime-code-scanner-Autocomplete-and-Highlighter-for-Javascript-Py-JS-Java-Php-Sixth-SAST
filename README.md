@@ -13,7 +13,7 @@ Built with 💖 for developers.
 
 ## **Requirements**
 
-- VS Code 1.83 or newer
+- VS Code 1.43 or newer
 - [Optional] Python3.9
 
 ## **Supported OSes/Platforms:**
